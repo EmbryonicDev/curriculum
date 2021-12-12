@@ -460,7 +460,7 @@ This method can be useful for adding unique styles to a *single page* of a websi
 
 #### Inline CSS
 
-Inline CSS makes it possible to add styles directly to HTML elements, though this method isn't as recommended:
+Inline CSS makes it possible to add styles directly to HTML elements, though this method isn't recommended:
 
 ~~~html
 <body>
